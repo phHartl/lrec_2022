@@ -9,7 +9,7 @@ Extensive experiments on two very different, publicly available datasets demonst
 
 ### References
 
-In Proceedings of LREC 2022, to appear in June 2022. To cite the preliminary version, use:
+Accepted in Proceedings of LREC 2022, to appear in June/July 2022. To cite the preliminary version, use:
 ~~~~
 @article{hartl2022applying,
   title={Applying Automatic Text Summarization for Fake News Detection},
